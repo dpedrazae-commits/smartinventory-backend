@@ -22,12 +22,3 @@ Incluye autenticación, productos, sucursales, movimientos, IA predictiva y arqu
 ```bash
 npm install
 npm run start:dev
-
-##  Estructura
-src/
-modules/
-products/
-branches/
-movements/
-ia/
-auth/
